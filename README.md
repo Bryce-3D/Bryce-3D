@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [Profile picture sauce](https://twitter.com/tsubakinoniwa/status/1452055415798173697)
+[My MyAnimeList profile](https://myanimelist.net/profile/Bryce3D)
 
 **Bryce-3D/Bryce-3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
